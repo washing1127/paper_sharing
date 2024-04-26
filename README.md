@@ -10,3 +10,7 @@
 
 ## 20240415 Chain of Note - 二凡
 【[讨论视频]( https://www.bilibili.com/video/BV1bZ421Y7iz/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240415-ChainOfNote/2311.09210.pdf)】【[后续问题](./QA/2024/20240415-ChainOfNote/QA.md)】【[PPT](./QA/2024/20240415-ChainOfNote/ppt.ppt)】
+
+## 20240422 联邦学习 - A霸天下
+
+【[讨论视频]()】【[后续问题](./QA/2024/20240422-FederatedLearning/QA.md)】
