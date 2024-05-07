@@ -17,4 +17,8 @@
 
 ## 20240428 Speculative Sampling - [廖星宇](https://github.com/L1aoXingyu) 
 
-【[讨论视频]()】【[论文文件](./QA/2024/20240428-SpeculativeSampling/2302.01318v1.pdf)】【[后续问题](./QA/2024/20240428-SpeculativeSampling/QA.md)】【[思维导图](./QA/2024/20240428-SpeculativeSampling/)】
+【[讨论视频](https://www.bilibili.com/video/BV1jJ4m1n7N4/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240428-SpeculativeSampling/2302.01318v1.pdf)】【[后续问题](./QA/2024/20240428-SpeculativeSampling/QA.md)】
+
+## 20240506 LoRaMoE - Yan
+
+【[讨论视频](https://www.bilibili.com/video/BV1Sb42187u1/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240506-LoRaMoE/2312.09979v4.pdf)】【[后续问题](./QA/2024/20240506-LoRaMoE/QA.md)】
