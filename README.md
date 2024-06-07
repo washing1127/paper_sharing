@@ -13,7 +13,7 @@
 
 ## 20240422 联邦学习 - A霸天下
 
-【[讨论视频]()】【[后续问题](./QA/2024/20240422-FederatedLearning/QA.md)】
+【[后续问题](./QA/2024/20240422-FederatedLearning/QA.md)】【[PPT](./QA/2024/20240422-FederatedLearning/federated_learning.pptx)】
 
 ## 20240428 Speculative Sampling - [廖星宇](https://github.com/L1aoXingyu) 
 
@@ -25,4 +25,12 @@
 
 ## 20240513 ASTRA-sim2 - D灰
 
-【[讨论视频]()】【[论文文件](./QA/2024/20240513-ASTRA-sim2/2303.14006v1.pdf)】【[后续问题](./QA/2024/20240513-ASTRA-sim2/QA.md)】
+【[讨论视频](https://www.bilibili.com/video/BV1h7421f7Rx/)】【[论文文件](./QA/2024/20240513-ASTRA-sim2/2303.14006v1.pdf)】【[后续问题](./QA/2024/20240513-ASTRA-sim2/QA.md)】
+
+## 20240523 联邦学习2 - A霸天下
+
+【[讨论视频](https://www.bilibili.com/video/BV1um421K72h/)】【[后续问题](./QA/2024/20240523-FederatedLearning2/QA.md)】
+
+## 20240603 Chakra - D灰
+
+【[讨论视频](https://www.bilibili.com/video/BV1oD421u7wR/)】【[论文文件](./QA/2024/20240603-Chakra/2305.14516v2.pdf)】【[后续问题](./QA/2024/20240603-Chakra/QA.md)】
