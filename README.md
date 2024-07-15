@@ -34,3 +34,12 @@
 ## 20240603 Chakra - D灰
 
 【[讨论视频](https://www.bilibili.com/video/BV1oD421u7wR/)】【[论文文件](./QA/2024/20240603-Chakra/2305.14516v2.pdf)】【[后续问题](./QA/2024/20240603-Chakra/QA.md)】
+
+## 20240618	Token Level Contrastive Learning - Yan
+【[讨论视频](https://www.bilibili.com/video/BV18LgPe1Etx/)】【[论文文件](./QA/2024/20240618-TokenLevelConstrastiveLearning/2312.14667v2.pdf)】【[后续问题](./QA/2024/20240618-TokenLevelConstrastiveLearning/QA.md)】
+
+## 20240701 - Infini-attention - 二凡
+【[讨论视频](https://www.bilibili.com/video/BV1a9hweYESW/)】【[论文文件](./QA/2024/20240701-InfiniAttention/2404.07143v1.pdf)】【[后续问题](./QA/2024/20240701-InfiniAttention/QA.md)】
+
+## 20240714 MLLM 综述 - [washing](https://github.com/washing1127) 
+【[讨论视频](https://www.bilibili.com/video/BV1HTbDeGE4M/)】【[论文文件](./QA/2024/20240714-MLLMSurvey/2306.13549v2.pdf)】【[后续问题](./QA/2024/20240714-MLLMSurvey/QA.md)】【[思维导图](https://www.zhixi.com/view/33bcf518)】
