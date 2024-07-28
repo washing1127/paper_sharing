@@ -39,7 +39,10 @@
 【[讨论视频](https://www.bilibili.com/video/BV18LgPe1Etx/)】【[论文文件](./QA/2024/20240618-TokenLevelConstrastiveLearning/2312.14667v2.pdf)】【[后续问题](./QA/2024/20240618-TokenLevelConstrastiveLearning/QA.md)】
 
 ## 20240701 - Infini-attention - 二凡
-【[讨论视频](https://www.bilibili.com/video/BV1a9hweYESW/)】【[论文文件](./QA/2024/20240701-InfiniAttention/2404.07143v1.pdf)】【[后续问题](./QA/2024/20240701-InfiniAttention/QA.md)】
+【[讨论视频](https://www.bilibili.com/video/BV1a9hweYESW/)】【[论文文件](./QA/2024/20240701-InfiniAttention/2404.07143v1.pdf)】【[后续问题](./QA/2024/20240701-InfiniAttention/QA.md)】【[PPT](./QA/2024/20240701-InfiniAttention/infini-attention.pptx)】
 
 ## 20240714 MLLM 综述 - [washing](https://github.com/washing1127) 
 【[讨论视频](https://www.bilibili.com/video/BV1HTbDeGE4M/)】【[论文文件](./QA/2024/20240714-MLLMSurvey/2306.13549v2.pdf)】【[后续问题](./QA/2024/20240714-MLLMSurvey/QA.md)】【[思维导图](https://www.zhixi.com/view/33bcf518)】
+
+## 20240408 LoRA-GA - [Zena](https://github.com/ZhaoZeqing) 
+【[讨论视频]()】【[论文文件](./QA/2024/20240727-LoRAGA/2407.05000v2.pdf)】【[后续问题](./QA/2024/20240727-LoRAGA/QA.md)】【[PPT](./QA/2024/20240727-LoRAGA/20240721-LoRA-GA.pptx)】
