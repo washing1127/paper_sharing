@@ -49,3 +49,6 @@
 
 ## 20240814 BLSP - 夏多多
 【[讨论视频](https://www.bilibili.com/video/BV14Re5ewEhr/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240814-BLSP/2309.00916v2.pdf)】【[后续问题](./QA/2024/20240814-BLSP/QA.md)】【[PDF](./QA/2024/20240814-BLSP/BLSP.pdf)】
+
+## 20240911 LLaMA Series - [wanng](https://github.com/wanng-ide)
+【[讨论视频](https://www.bilibili.com/video/BV1iu4nerEG1/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件1](./QA/2024/20240911-llamaseries/2302.13971v1.pdf)[论文文件2](./QA/2024/20240911-llamaseries/2307.09288v2.pdf)】【[后续问题](./QA/2024/20240911-llamaseries//QA.md)】【[总结文章](https://zhuanlan.zhihu.com/p/717159151)】
