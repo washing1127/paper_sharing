@@ -1,3 +1,11 @@
+<!--
+ * @Author: washing1127
+ * @Date: 2024-11-24 16:45:41
+ * @LastEditors: washing1127
+ * @LastEditTime: 2024-11-24 16:54:12
+ * @FilePath: /paper_sharing/README.md
+ * @Description: 
+-->
 # paper_sharing
 ## 20240324 ALBERT - [washing](https://github.com/washing1127) 
 【[讨论视频](https://www.bilibili.com/video/BV1rC41187JS/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240324-ALBERT/1909.11942.pdf)】【[后续问题](./QA/2024/20240324-ALBERT/QA.md)】【[思维导图](https://www.zhixi.com/view/bb3e6228)】
@@ -11,7 +19,7 @@
 ## 20240415 Chain of Note - 二凡
 【[讨论视频]( https://www.bilibili.com/video/BV1bZ421Y7iz/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240415-ChainOfNote/2311.09210.pdf)】【[后续问题](./QA/2024/20240415-ChainOfNote/QA.md)】【[PPT](./QA/2024/20240415-ChainOfNote/ppt.ppt)】
 
-## 20240422 联邦学习 - A霸天下
+## 20240422 联邦学习 - [A霸天下](https://github.com/xiely-123)
 
 【[后续问题](./QA/2024/20240422-FederatedLearning/QA.md)】【[PPT](./QA/2024/20240422-FederatedLearning/federated_learning.pptx)】
 
@@ -27,7 +35,7 @@
 
 【[讨论视频](https://www.bilibili.com/video/BV1h7421f7Rx/)】【[论文文件](./QA/2024/20240513-ASTRA-sim2/2303.14006v1.pdf)】【[后续问题](./QA/2024/20240513-ASTRA-sim2/QA.md)】
 
-## 20240523 联邦学习2 - A霸天下
+## 20240523 联邦学习2 - [A霸天下](https://github.com/xiely-123)
 
 【[讨论视频](https://www.bilibili.com/video/BV1um421K72h/)】【[后续问题](./QA/2024/20240523-FederatedLearning2/QA.md)】
 
@@ -51,4 +59,8 @@
 【[讨论视频](https://www.bilibili.com/video/BV14Re5ewEhr/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](./QA/2024/20240814-BLSP/2309.00916v2.pdf)】【[后续问题](./QA/2024/20240814-BLSP/QA.md)】【[PDF](./QA/2024/20240814-BLSP/BLSP.pdf)】
 
 ## 20240911 LLaMA Series - [wanng](https://github.com/wanng-ide)
-【[讨论视频](https://www.bilibili.com/video/BV1iu4nerEG1/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件1](./QA/2024/20240911-llamaseries/2302.13971v1.pdf)[论文文件2](./QA/2024/20240911-llamaseries/2307.09288v2.pdf)】【[后续问题](./QA/2024/20240911-llamaseries//QA.md)】【[总结文章](https://zhuanlan.zhihu.com/p/717159151)】
+【[讨论视频](https://www.bilibili.com/video/BV1iu4nerEG1/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件1](./QA/2024/20240911-llamaseries/2302.13971v1.pdf); [论文文件2](./QA/2024/20240911-llamaseries/2307.09288v2.pdf)】【[后续问题](./QA/2024/20240911-llamaseries//QA.md)】【[总结文章](https://zhuanlan.zhihu.com/p/717159151)】
+
+## 20241120 nnU-Net - [A霸天下](https://github.com/xiely-123)
+
+【[讨论视频](https://www.bilibili.com/video/BV1sUBxYSEv6/?share_source=copy_web&vd_source=88940ee2a1d8d09b9bfc831ab9ae1145)】【[论文文件](https://www.nature.com/articles/s41592-020-01008-z)】【[后续问题](./QA/2024/20241120-nnU-Net/QA.md)】
